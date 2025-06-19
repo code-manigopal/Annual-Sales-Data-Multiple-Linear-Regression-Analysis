@@ -1,9 +1,9 @@
 # Annual-Sales-Data-Multiple-Linear-Regression-Analysis
 
-This report presents a comprehensive multiple linear regression analysis conducted to understand the key drivers behind a company’s Annual Sales performance. 
+This report presents a comprehensive multiple linear regression analysis conducted to understand the key drivers behind a company’s **Annual Sales** performance. 
 The dataset consists of various factors that potentially influence sales outcomes, including:  
-** Ad Budget 
-** Price 
+> Ad Budget
+> Price 
 ** Customer Visits 
 ** Competitor Price
 ** Region (Categorical Variable)  
